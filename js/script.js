@@ -3,7 +3,7 @@ const calculateExpense = () => {
   const food = document.querySelector("#food").value;
   const rent = document.querySelector("#rent").value;
   const clothes = document.querySelector("#clothes").value;
-
+  // problem solved 
   if (
     income < 0 ||
     income == "" ||
